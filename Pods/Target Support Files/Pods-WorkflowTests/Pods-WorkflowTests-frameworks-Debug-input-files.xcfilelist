@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-WorkflowTests/Pods-WorkflowTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ReactiveSwift/ReactiveSwift.framework
+${BUILT_PRODUCTS_DIR}/Result/Result.framework
+${BUILT_PRODUCTS_DIR}/Workflow/Workflow.framework
